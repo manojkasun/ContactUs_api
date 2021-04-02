@@ -1,0 +1,23 @@
+{
+    "name": "contact_us",
+    "version": "1.0.0",
+    "description": "manoj kasun node api with atalas db",
+    "main": "index.js",
+    "scripts": {
+        "devStart": "nodemon server.js"
+    },
+    "keywords": [
+        "node.js",
+        "mongoose"
+    ],
+    "author": "manoj kasun",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.12.3"
+    },
+    "devDependencies": {
+        "dotenv": "^8.2.0",
+        "nodemon": "^2.0.7"
+    }
+}
